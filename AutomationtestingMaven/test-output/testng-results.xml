@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19065" started-at="2022-05-19T12:24:54 IST" finished-at="2022-05-19T12:25:13 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19065" started-at="2022-05-19T12:24:54 IST" finished-at="2022-05-19T12:25:13 IST">
+      <class name="AutomationTesting.Test.Orangeauto">
+        <test-method status="PASS" signature="launch()[pri:0, instance:AutomationTesting.Test.Orangeauto@2a742aa2]" name="launch" is-config="true" duration-ms="3336" started-at="2022-05-19T12:24:54 IST" finished-at="2022-05-19T12:24:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="url()[pri:0, instance:AutomationTesting.Test.Orangeauto@2a742aa2]" name="url" duration-ms="15665" started-at="2022-05-19T12:24:57 IST" finished-at="2022-05-19T12:25:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+      </class> <!-- AutomationTesting.Test.Orangeauto -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
